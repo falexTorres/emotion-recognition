@@ -1,0 +1,20 @@
+scale factor = 1.01
+min neighbors = 3
+border size = 55
+missed = 6906
+
+scale factor = 1.01
+min neighbors = 3
+border size = 55
+missed = 854
+
+scale factor = 1.01
+min neighbors = 3
+border size = 55
+missed = 922
+
+scale factor = 1.01
+min neighbors = 3
+border size = 55
+missed = 7417
+
