@@ -1,0 +1,26 @@
+Dependencies:
+    openCV
+    tensorflow
+    tflearn
+    keras
+    numpy
+    sklearn
+    PIL
+    pandas
+    matplotlib
+
+
+DataSet:
+    fer2013.csv must be downloaded from Kaggle.com
+    cd to import directory and run "python importFer.py"
+
+training command:
+    python emotion_recognition.py train
+
+testing command:
+    python plot_emotion_matrix.py
+
+testing manually:
+    put test image in this folder and run:
+    python prediction.py
+
